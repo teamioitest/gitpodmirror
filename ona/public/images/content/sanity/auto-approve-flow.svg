@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 540" fill="none">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .label { font-size: 13px; fill: #636363; }
+    .title { font-size: 15px; fill: #0a0e19; font-weight: 600; }
+    .small { font-size: 11px; fill: #818181; }
+    .criteria { font-size: 12px; fill: #0a0e19; }
+  </style>
+
+  <!-- Background -->
+  <rect width="980" height="540" rx="12" fill="#f9f9f9"/>
+
+  <!-- Step 1: PR Opened -->
+  <rect x="40" y="210" width="140" height="64" rx="8" fill="#0a0e19"/>
+  <text x="110" y="238" text-anchor="middle" font-size="14" font-weight="600" fill="#ffffff">PR Opened</text>
+  <text x="110" y="256" text-anchor="middle" font-size="11" fill="#afc1fd">Any repository</text>
+
+  <!-- Arrow 1 -->
+  <line x1="180" y1="242" x2="220" y2="242" stroke="#cecece" stroke-width="1.5"/>
+  <polygon points="218,237 228,242 218,247" fill="#cecece"/>
+
+  <!-- Step 2: Ona Evaluates Criteria -->
+  <rect x="228" y="140" width="220" height="204" rx="8" fill="#ffffff" stroke="#e1e1e1" stroke-width="1"/>
+  <text x="338" y="170" text-anchor="middle" class="title">Ona Evaluates Risk</text>
+  <line x1="244" y1="182" x2="432" y2="182" stroke="#e1e1e1" stroke-width="1"/>
+  <text x="256" y="206" class="criteria">✓ &lt; 1,000 lines</text>
+  <text x="256" y="228" class="criteria">✓ No protobuf changes</text>
+  <text x="256" y="250" class="criteria">✓ No DB migrations</text>
+  <text x="256" y="272" class="criteria">✓ No infra/CI changes</text>
+  <text x="256" y="294" class="criteria">✓ No auth/authz changes</text>
+  <text x="256" y="316" class="criteria">✓ No audit/monitoring</text>
+
+  <!-- Arrow 2 -->
+  <line x1="448" y1="242" x2="488" y2="242" stroke="#cecece" stroke-width="1.5"/>
+  <polygon points="486,237 496,242 486,247" fill="#cecece"/>
+
+  <!-- Step 3: Decision Diamond -->
+  <polygon points="558,202 618,242 558,282 498,242" fill="#ffffff" stroke="#e1e1e1" stroke-width="1"/>
+  <text x="558" y="238" text-anchor="middle" font-size="13" font-weight="600" fill="#0a0e19">All</text>
+  <text x="558" y="254" text-anchor="middle" font-size="13" font-weight="600" fill="#0a0e19">met?</text>
+
+  <!-- Arrow: Yes (right) -->
+  <line x1="618" y1="242" x2="658" y2="242" stroke="#cecece" stroke-width="1.5"/>
+  <polygon points="656,237 666,242 656,247" fill="#cecece"/>
+  <text x="638" y="232" text-anchor="middle" class="label" font-weight="600" fill="#1e3c2c">Yes</text>
+
+  <!-- Arrow: No (down) -->
+  <line x1="558" y1="282" x2="558" y2="390" stroke="#cecece" stroke-width="1.5"/>
+  <polygon points="553,388 558,398 563,388" fill="#cecece"/>
+  <text x="570" y="340" class="label" font-weight="600" fill="#541500">No</text>
+
+  <!-- Step 4a: AI Agent Approves (Yes path) -->
+  <rect x="666" y="210" width="160" height="64" rx="8" fill="#1e3c2c"/>
+  <text x="746" y="238" text-anchor="middle" font-size="14" font-weight="600" fill="#ffffff">AI Approves</text>
+  <text x="746" y="256" text-anchor="middle" font-size="11" fill="#d9fff7">With reasoning</text>
+
+  <!-- Step 4b: Escalate to Human (No path) -->
+  <rect x="478" y="398" width="160" height="64" rx="8" fill="#541500"/>
+  <text x="558" y="426" text-anchor="middle" font-size="14" font-weight="600" fill="#ffffff">Human Review</text>
+  <text x="558" y="444" text-anchor="middle" font-size="11" fill="#efd4ff">Escalated by agent</text>
+
+  <!-- Arrow from AI Approves down to Human Merges -->
+  <line x1="746" y1="274" x2="746" y2="390" stroke="#cecece" stroke-width="1.5"/>
+  <polygon points="741,388 746,398 751,388" fill="#cecece"/>
+
+  <!-- Arrow from Human Review right to Human Merges -->
+  <line x1="638" y1="430" x2="678" y2="430" stroke="#cecece" stroke-width="1.5"/>
+  <polygon points="676,425 686,430 676,435" fill="#cecece"/>
+
+  <!-- Step 5: Human Merges -->
+  <rect x="686" y="398" width="160" height="64" rx="8" fill="#0048ff"/>
+  <text x="766" y="426" text-anchor="middle" font-size="14" font-weight="600" fill="#ffffff">Human Merges</text>
+  <text x="766" y="444" text-anchor="middle" font-size="11" fill="#afc1fd">SOC 2 approval event</text>
+
+</svg>

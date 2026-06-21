@@ -1,0 +1,1 @@
+function e(){return"DOMContentLoaded"}export{e as g};

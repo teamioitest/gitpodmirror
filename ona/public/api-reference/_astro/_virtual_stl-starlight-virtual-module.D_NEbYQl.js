@@ -1,0 +1,1 @@
+const E="/api-reference",t={light:"github-light",dark:"github-dark"},i="gitpod";export{t as HIGHLIGHT_THEMES,E as RESOLVED_API_REFERENCE_PATH,i as STAINLESS_PROJECT};

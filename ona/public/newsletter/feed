@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ona Newsletter</title>
+    <link>https://ona.com/newsletter</link>
+    <description>Biweekly insights on building AI organizations and practices. Join 440K+ engineers staying ahead of the curve.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 May 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://ona.com/newsletter/feed" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[LIVE] Tomorrow: Stripe, Cloudflare, &amp; more on running agents at scale</title>
+      <link>https://ona.com/newsletter/05-may-2026</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/05-may-2026</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>what stripe, uber, and harvey told me about background agents (and what none of them have figured out yet)</title>
+      <link>https://ona.com/newsletter/30-apr-2026</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/30-apr-2026</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stripe, Harvey &amp; more on background agents - May 6</title>
+      <link>https://ona.com/newsletter/23-apr-2026</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/23-apr-2026</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>the factory floor is live</title>
+      <link>https://ona.com/newsletter/16-apr-2026</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/16-apr-2026</guid>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>build your own background agent stack like ramp, stripe, uber, and spotify.</title>
+      <link>https://ona.com/newsletter/26-mar-2026</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/26-mar-2026</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>the self-driving codebase series just wrapped. start here.</title>
+      <link>https://ona.com/newsletter/22-mar-2026</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/22-mar-2026</guid>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>our visual guide to background agents spread like wildfire</title>
+      <link>https://ona.com/newsletter/05-mar-2026</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/05-mar-2026</guid>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>introducing veto: kernel-level enforcement for AI agents</title>
+      <link>https://ona.com/newsletter/03-mar-2026</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/03-mar-2026</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>launching background-agents.com: a visual guide to self-driving code bases</title>
+      <link>https://ona.com/newsletter/24-feb-2026</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/24-feb-2026</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ona Automations: proactive background agents are here</title>
+      <link>https://ona.com/newsletter/19-feb-2026</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/19-feb-2026</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>background agents + the last year of localhost</title>
+      <link>https://ona.com/newsletter/13-feb-2026</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/13-feb-2026</guid>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>context is the new infrastructure</title>
+      <link>https://ona.com/newsletter/04-feb-2026</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/04-feb-2026</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>i turned the backlog into 1,000 prs today and didn&apos;t get fired</title>
+      <link>https://ona.com/newsletter/12-jan-2026</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/12-jan-2026</guid>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ai made you faster. at what, exactly?</title>
+      <link>https://ona.com/newsletter/11-dec-2025</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/11-dec-2025</guid>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>code is a commodity, your brain isn’t (yet?)</title>
+      <link>https://ona.com/newsletter/28-nov-2025</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/28-nov-2025</guid>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI coding in prod</title>
+      <link>https://ona.com/newsletter/14-nov-2025</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/14-nov-2025</guid>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>the prompt is dead, long live the spec</title>
+      <link>https://ona.com/newsletter/23-oct-2025</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/23-oct-2025</guid>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ona with 4.5 feels illegal (it’s not)</title>
+      <link>https://ona.com/newsletter/09-oct-2025</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/09-oct-2025</guid>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>We see specs as the key to making agents work effectively and predictably.</title>
+      <link>https://ona.com/newsletter/25-sept-2025</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/25-sept-2025</guid>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>After years of building Gitpod, we&apos;ve re-founded as Ona</title>
+      <link>https://ona.com/newsletter/09-sept-2025</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/09-sept-2025</guid>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rigor over hype for enterprise AI</title>
+      <link>https://ona.com/newsletter/21-aug-2025</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/21-aug-2025</guid>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ona is our top contributor</title>
+      <link>https://ona.com/newsletter/07-aug-2025</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/07-aug-2025</guid>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is your AI overthinking?</title>
+      <link>https://ona.com/newsletter/24-july-2025</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/24-july-2025</guid>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open source projects now reject AI code</title>
+      <link>https://ona.com/newsletter/10-july-2025</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/10-july-2025</guid>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude masters blackmail, Karpathy’s rule, and 90% faster AWS cold starts</title>
+      <link>https://ona.com/newsletter/26-june-2025</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/26-june-2025</guid>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ona early access, AI skeptics eat crow, managers flunk the bot test</title>
+      <link>https://ona.com/newsletter/12-june-2025</link>
+      <guid isPermaLink="true">https://ona.com/newsletter/12-june-2025</guid>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
